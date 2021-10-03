@@ -18,4 +18,3 @@ Usage: Add an empty GameObject to the scene, add Character Controller component 
 set the camera in the script field (do not parent Camera to anything). It should be ready to go.
 Different features can be turned on and off by commenting/uncommenting define directives at the top of the file.
 "Crouch" "Activate" and "Sprint" buttons will need to be set up in the input settings depending on enabled features.
-This code was made and only tested on Unity 5.6.7, so it most likely won't work right away on newer versions.
